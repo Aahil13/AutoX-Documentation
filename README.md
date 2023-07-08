@@ -6,6 +6,8 @@ Welcome to the AutoX Documentation repository! This repository contains the sour
 
 AutoX is a fictional car dealership that offers a wide range of vehicles to meet your needs. This document provides comprehensive information on using our services, browsing our inventory, and accessing our API.
 
+**Live URL**: [AutoX Documentation](https://autox-docs.netlify.app/)
+
 ## Getting Started
 
 To run the AutoX documentation site locally, follow these steps:
