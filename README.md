@@ -28,9 +28,15 @@ To run the AutoX documentation site locally, follow these steps:
     cd AutoX-Documentation
     ```
 
+3. Install MkDocs
+
+    ```python
+    pip install mkdocs
+    ```
+
 ### Usage
 
-1. Once the dependencies are installed, you can run the documentation site locally using the following command:
+1. Once MKDocs is installed, you can run the documentation site locally using the following command:
 
     ```shell
     mkdocs serve
