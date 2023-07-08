@@ -1,0 +1,8 @@
+site_name: AutoX
+site_url: https://aahil13.github.io/Autox/
+extra_css: [extra.css]
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference: api-reference.md
+
